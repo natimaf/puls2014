@@ -1,0 +1,14 @@
+* tenemos un master en github.com que es el REPOSITORIO PRINCIPAL
+
+• Master (github.com) REPO PRINCIPAL
+
+	* tenemos el master en el disco duro local. Es donde hacemos los cambios y cuando está listo lo subimos a github
+
+• Master (disco duro) REPO LOCAL
+	• Master 
+	podemos hacer un MERGE (que es una combinación entre la rama experimental y la master)
+	• Experimental local (rama local)
+
+	* cuando estamos en github nos podemos meter a nuestro servidor y ahí tenemos el repo de producción. Esta e sla manera en que se reemplaza. Tenemos git instalad o en el Servidor. Sincronizamos la última versión.  
+
+• Master (servidor.com) REPO PRODUCCION
