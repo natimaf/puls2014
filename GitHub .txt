@@ -1,4 +1,4 @@
-* tenemos un master en github.com que es el REPOSITORIO PRINCIPAL
+﻿* tenemos un master en github.com que es el REPOSITORIO PRINCIPAL
 
 • Master (github.com) REPO PRINCIPAL
 
@@ -12,3 +12,5 @@
 	* cuando estamos en github nos podemos meter a nuestro servidor y ahí tenemos el repo de producción. Esta e sla manera en que se reemplaza. Tenemos git instalad o en el Servidor. Sincronizamos la última versión.  
 
 • Master (servidor.com) REPO PRODUCCION
+
+te amo
